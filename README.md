@@ -2,6 +2,8 @@
 
 ## Veremos abaixo as ferramentas utilizadas
 
+!["logo ubuntu"](./logoubuntu.png)
+
 Foram usadas as seguintes ferramentas para o desenvolvimento da atividade:
 
 - Download do sistema operacinal linux
