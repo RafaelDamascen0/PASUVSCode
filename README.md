@@ -1,8 +1,9 @@
 # Preparação de Ambiente para Servidor Ubuntu acessando via Visual Studio Code
 
 ## Veremos abaixo as ferramentas utilizadas
-
-!["logo ubuntu"](./logoubuntu.png)
+<p align="center">
+<img src=virtualboxlogo.png width=100 height=100><img src=logoubuntu.png width=100 height=100><img src=cockpitlogo.png width=100 height=100><img src=sshlogo.png width=100 height=100><img src=vscodelogo.png width=100 height=100><img src=gitlogo.png width=100 height=100><img src=linguagemclogo.png width=100 height=100>
+</p>
 
 Foram usadas as seguintes ferramentas para o desenvolvimento da atividade:
 
